@@ -1,6 +1,7 @@
 .projects-horizontal {
   color: #313437;
   background-color: #fff;
+  box-shadow: 0px 0px 20px;
 }
 
 .projects-horizontal p {

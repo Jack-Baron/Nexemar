@@ -1,7 +1,10 @@
 .highlight-blue {
-  color: #fff;
-  background-color: #1e6add;
-  padding: 50px 0;
+  height: 480px;
+  padding: 80px 0px;
+  color: var(--bs-black);
+  background: var(--bs-gray-100);
+  box-shadow: 0px 0px 20px rgb(0,0,0);
+  border-bottom-color: var(--bs-black);
 }
 
 .highlight-blue p {
