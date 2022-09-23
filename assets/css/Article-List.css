@@ -71,3 +71,7 @@
   opacity: 1;
 }
 
+.dropdown-menu {
+  --bs-dropdown-link-active-bg: #293a80;
+}
+
