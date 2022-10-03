@@ -69,7 +69,7 @@ input[type="text"], input[type="email"], input[type="tel"], textarea {
 }
 
 .modern-form__form-control--textarea {
-  height: 95px !important;
   resize: none;
+  height: 150px !important;
 }
 

@@ -80,6 +80,7 @@ p {
   color: #3C4857;
   margin-top: 0;
   margin-bottom: 1rem;
+  font-family: Montserrat, sans-serif;
 }
 
 .blog-card .ftr {
@@ -118,5 +119,9 @@ a {
 }
 
 div {
+  --bs-primary: #293a80;
+  --bs-primary-rgb: 41,58,128;
+  --bs-info: #293a80;
+  --bs-info-rgb: 41,58,128;
 }
 
