@@ -5,6 +5,7 @@
 .accordion-button:focus {
   box-shadow: none;
   border: none;
+  background: #293a80;
 }
 
 .accordion-button:not(.collapsed) {
