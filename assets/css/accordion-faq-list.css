@@ -6,6 +6,7 @@
   box-shadow: none;
   border: none;
   background: #293a80;
+  color: var(--bs-accordion-bg);
 }
 
 .accordion-button:not(.collapsed) {
@@ -22,7 +23,7 @@
   font-size: 40px;
   background-image: none;
   font-weight: 100;
-  color: #1b6ce5;
+  color: var(--bs-info);
   transform: translateY(-4px);
 }
 
