@@ -123,5 +123,6 @@ div {
   --bs-primary-rgb: 41,58,128;
   --bs-info: #293a80;
   --bs-info-rgb: 41,58,128;
+  border-color: rgb(103,43,0);
 }
 
