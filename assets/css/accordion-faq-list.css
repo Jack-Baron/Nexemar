@@ -20,11 +20,12 @@
   width: auto;
   height: auto;
   content: "+";
-  font-size: 40px;
   background-image: none;
   font-weight: 100;
-  color: var(--bs-info);
   transform: translateY(-4px);
+  font-size: 40px;
+  color: #e35712;
+  font-family: 'Fredoka One', serif;
 }
 
 .accordion-button:not(.collapsed)::after {
@@ -35,5 +36,19 @@
   font-size: 48px;
   transform: translate(-5px, -4px);
   transform: rotate(0deg);
+}
+
+.btn-primary:hover {
+}
+
+.btn-primary:hover {
+}
+
+.accordion-button:not {
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+  color: rgb(255,255,255);
+  background: rgba(41,58,128,0.95);
 }
 
